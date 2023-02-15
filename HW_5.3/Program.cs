@@ -6,7 +6,6 @@ int[] array = GetRandomArray(10, 0, 999);
 int max = maxNumbArr(array);
 int min = minNumbArr(array);
 
-
 int[] GetRandomArray(int Length, int minEl, int maxEl)
 {
     int[] array = new int[Length];
